@@ -37,7 +37,7 @@ const Learn = ({ data }) => {
                 src={data.imageUrl}
                 alt={data.id}
                 width="350px"
-                height="350px"
+                height="400px"
               />
             </>
           );
