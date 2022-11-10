@@ -36,7 +36,7 @@ const Learn = ({ data }) => {
                 className="volvo__img"
                 src={data.imageUrl}
                 alt={data.id}
-                width="500px"
+                width="350px"
                 height="100%"
               />
             </>
