@@ -4,6 +4,7 @@ import { data } from "../Cars";
 import { AiOutlineRight } from "react-icons/ai";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
+import "./Volvo.css";
 
 const breakPoints = [
   {
